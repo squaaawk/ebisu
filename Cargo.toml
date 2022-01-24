@@ -1,0 +1,13 @@
+[package]
+name = "ebisu"
+version = "0.0.0"
+edition = "2021"
+license = "Unlicense"
+
+readme = "README.md"
+description = "ebisu"
+repository = "https://github.com/xorshift/ebisu"
+documentation = "https://docs.rs/ebisu"
+
+[dependencies]
+
